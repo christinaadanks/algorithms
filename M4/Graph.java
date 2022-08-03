@@ -8,7 +8,7 @@ import java.io.IOException;
  * Program to execute Bellman-Ford algorithm.
  *
  * @author Sam Benefield
- * @author Christina Liu
+ * @author Christina L
  *
  * @version 6/15/2021
  */
