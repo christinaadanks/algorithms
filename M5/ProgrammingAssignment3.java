@@ -8,7 +8,7 @@ import java.lang.*;
 /**
  * Program to calculate the running time of merge sort algorithm.
  *
- * @author Christina Liu (czl0144@auburn.edu)
+ * @author Christina L (czl0144@auburn.edu)
  * @author Jared Whaley
  * @version 4/9/2021
  */
