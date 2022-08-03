@@ -3,6 +3,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.*;
 
+/**
+ * @author Christina L
+ */
+
 public class CollectData   {
 
    
