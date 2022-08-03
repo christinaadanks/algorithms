@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Program to implement the Search and Tree-Insert operations on a BST.
  *
- * @author Christina Liu
+ * @author Christina L
  * @author Sam Benefield
  * @version 6/4/2021
  */
