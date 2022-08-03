@@ -5,7 +5,7 @@ import java.io.*;
  * Program to collect runtime of the recursive and greedy algorithm to solve
  * the activity-selection problem.
  * 
- * @author Christina Liu
+ * @author Christina L
  * @author Sam Benefield
  * @version 6/27/2021
  *
